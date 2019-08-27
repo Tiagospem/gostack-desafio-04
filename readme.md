@@ -1,2 +1,2 @@
 **DESAFIO 04 - BOOTCAMP**
-- desenvolvimento de layout e componente inspirado no chat do facebook
+- desenvolvimento de layout e componente inspirado facebook
